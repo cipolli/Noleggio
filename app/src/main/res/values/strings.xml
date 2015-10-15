@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Noleggio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_user">Usuário</string>
+    <string name="lbl_senha">Senha</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
